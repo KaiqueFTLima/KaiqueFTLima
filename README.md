@@ -38,3 +38,9 @@ Amo tecnologia e desde pequeno tenho afinidade e interesse pela área.
   />
 
 </p>
+
+---
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Fua/30-nites-of-code)  
+  ![@Fua #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Fua)
